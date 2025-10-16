@@ -31,6 +31,13 @@
 /processorParam:Quality=Best
 /build:audio/theme.ogg
 
+#begin fonts/gentium_5x.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:fonts/gentium_5x.spritefont
+
 #begin fonts/gentium.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
