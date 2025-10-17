@@ -37,6 +37,9 @@
 /processorParam:Quality=Best
 /build:audio/ui.wav
 
+#begin fonts/04b_30.fnt
+/copy:fonts/04b_30.fnt
+
 #begin fonts/gentium_5x.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
